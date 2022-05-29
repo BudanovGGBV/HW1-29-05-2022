@@ -10,6 +10,7 @@ namespace HW1_29_05_2022
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world");
         }
     }
 }
